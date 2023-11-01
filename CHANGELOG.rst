@@ -5,6 +5,8 @@ Changelog
 0.x.x (?)
 ==================
 
+* Added new Target to support New Relic JSON
+
 * Extended DashboardLink to support links to dashboards and urls, as per the docs_
 
 .. _`docs`: https://grafana.com/docs/grafana/latest/dashboards/build-dashboards/manage-dashboard-links/#dashboard-links
